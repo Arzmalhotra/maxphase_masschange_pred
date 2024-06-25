@@ -1,0 +1,1 @@
+this project integrates machine laerning with material science to predict the mass change per unit area for different max phases based on caertain properties
