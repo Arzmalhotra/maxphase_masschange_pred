@@ -1,5 +1,6 @@
 this project integrates machine laerning with material science to predict the mass change per unit area for different max phases based on certain properties
 The features include max phase composition ,
+
 lattice parameters	(a	b	c) ,
 electronegativities of the elements (EN_a	EN_b	EN_c) ,
 average electronegativity (	avg EN), 
